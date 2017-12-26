@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>#/usr/bin/env bash
+# Unofficial Bash Strict Mode
+set -euo pipefail
+IFS=$'\n\t'
+</string>
+	<key>name</key>
+	<string>Strict Bash</string>
+	<key>scope</key>
+	<string>source.shell</string>
+	<key>tabTrigger</key>
+	<string>sbash</string>
+	<key>uuid</key>
+	<string>6917A400-A288-4D03-8912-F3AA1FF24D96</string>
+</dict>
+</plist>
